@@ -20,6 +20,16 @@
       "waga": "info",
       "trasa_id": "3B",
       "link": null
+    },
+    {
+      "id": "2026-07-27-ostrzezenie-na-trasie",
+      "tytul": "Ostrzezenie na trasie",
+      "tresc": "Jest utrudnienie",
+      "od": "2026-07-27T15:28:13Z",
+      "do": "2026-08-01T15:28:13Z",
+      "waga": "ostrzezenie",
+      "trasa_id": null,
+      "link": null
     }
   ]
 }
