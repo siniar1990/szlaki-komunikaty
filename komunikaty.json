@@ -10,16 +10,6 @@
       "waga": "ostrzezenie",
       "trasa_id": "R1",
       "link": null
-    },
-    {
-      "id": "2026-07-27-test-panelu",
-      "tytul": "Test panelu",
-      "tresc": "Sprawdzenie wysylki z panelu.",
-      "od": "2026-07-27T14:55:58Z",
-      "do": "2026-07-28T14:55:58Z",
-      "waga": "info",
-      "trasa_id": null,
-      "link": null
     }
   ]
 }
