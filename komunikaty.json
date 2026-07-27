@@ -20,6 +20,16 @@
       "waga": "info",
       "trasa_id": "2A",
       "link": null
+    },
+    {
+      "id": "2026-07-27-kolejna-nowa-trasa",
+      "tytul": "Kolejna nowa trasa",
+      "tresc": "Testuje znowu",
+      "od": "2026-07-27T15:12:24Z",
+      "do": "2026-08-01T15:12:24Z",
+      "waga": "info",
+      "trasa_id": "3B",
+      "link": null
     }
   ]
 }
