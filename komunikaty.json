@@ -40,6 +40,16 @@
       "waga": "pilne",
       "trasa_id": null,
       "link": null
+    },
+    {
+      "id": "2026-07-27-kolejny-test-przy-zamknietej-aplikacji",
+      "tytul": "Kolejny test przy zamknietej aplikacji",
+      "tresc": "Testujemy",
+      "od": "2026-07-27T15:29:15Z",
+      "do": "2026-08-01T15:29:15Z",
+      "waga": "pilne",
+      "trasa_id": null,
+      "link": null
     }
   ]
 }
