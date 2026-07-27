@@ -1,4 +1,15 @@
 {
   "wersja": 1,
-  "komunikaty": []
+  "komunikaty": [
+    {
+      "id": "2026-07-27-nowa-trasa-rowerowa",
+      "tytul": "Nowa trasa rowerowa",
+      "tresc": "Do Czerwonego Klasztoru — 9,7 km wzdłuż Przełomu Dunajca.",
+      "od": "2026-07-27T13:42:19Z",
+      "do": "2026-08-26T13:42:19Z",
+      "waga": "ostrzezenie",
+      "trasa_id": "R1",
+      "link": null
+    }
+  ]
 }
