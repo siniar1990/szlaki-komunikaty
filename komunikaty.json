@@ -30,6 +30,16 @@
       "waga": "ostrzezenie",
       "trasa_id": null,
       "link": null
+    },
+    {
+      "id": "2026-07-27-mocne-ostrzezenie",
+      "tytul": "Mocne ostrzezenie",
+      "tresc": "Test",
+      "od": "2026-07-27T15:28:41Z",
+      "do": "2026-08-01T15:28:41Z",
+      "waga": "pilne",
+      "trasa_id": null,
+      "link": null
     }
   ]
 }
