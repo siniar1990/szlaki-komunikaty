@@ -10,6 +10,16 @@
       "waga": "ostrzezenie",
       "trasa_id": "R1",
       "link": null
+    },
+    {
+      "id": "2026-07-27-nowa-trasa-testowa",
+      "tytul": "Nowa trasa testowa",
+      "tresc": "Nowa trasa uwaga",
+      "od": "2026-07-27T15:07:51Z",
+      "do": "2026-08-01T15:07:51Z",
+      "waga": "info",
+      "trasa_id": "2A",
+      "link": null
     }
   ]
 }
