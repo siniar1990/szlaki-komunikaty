@@ -1,6 +1,6 @@
-# Kanał komunikatów — Szlaki Szczawnicy
+# Kanał komunikatów — Szlaki Pienin
 
-Publiczny kanał powiadomień dla aplikacji **Szlaki Szczawnicy**.
+Publiczny kanał powiadomień dla aplikacji **Szlaki Pienin**.
 
 To repozytorium zawiera **wyłącznie** plik `komunikaty.json`. Kod aplikacji,
 trasy i zdjęcia są w osobnym, prywatnym repozytorium.
