@@ -60,6 +60,16 @@
       "waga": "ostrzezenie",
       "trasa_id": null,
       "link": null
+    },
+    {
+      "id": "2026-08-07-nowa-trasa-piesza",
+      "tytul": "Nowa trasa piesza",
+      "tresc": "Jest to nowa trasa - Szlakiem godeł Szalayowskich - interesująca mapa wszystkich godeł do kolekcji.",
+      "od": "2026-08-07T17:11:09Z",
+      "do": "2026-08-08T17:11:09Z",
+      "waga": "ostrzezenie",
+      "trasa_id": null,
+      "link": null
     }
   ]
 }
