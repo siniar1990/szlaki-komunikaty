@@ -50,6 +50,16 @@
       "waga": "ostrzezenie",
       "trasa_id": "8D",
       "link": null
+    },
+    {
+      "id": "2026-08-07-nowa-trasa-z-dziecmi-2",
+      "tytul": "Nowa trasa z dziećmi 2",
+      "tresc": "Dodaliśmy nową trasę na Lawendowe wzgórza.",
+      "od": "2026-08-07T17:02:18Z",
+      "do": "2026-08-08T17:02:18Z",
+      "waga": "ostrzezenie",
+      "trasa_id": null,
+      "link": null
     }
   ]
 }
